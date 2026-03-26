@@ -3,16 +3,16 @@
 }
 body{
     font-family: Arial, Helvetica, sans-serif;
-    margin: 0;
     background-color: #7125eb;
 }
 header, footer{
     width: 100%; /*largura*/
     background-color: #4f00aa;/*cor de fundo*/
-    box-shadow: 1px 1px 5px #ccc;
+    box-shadow: 1px 1px 3px #000000;
     padding: 15px; /*margem dentro do objeto*/
     box-sizing: border-box;
     float: left;
+    
 }
 h1{
     color: white;
@@ -31,3 +31,5 @@ header nav a{
 header nav a:hover{
     color: #333;
 }
+
+ 
